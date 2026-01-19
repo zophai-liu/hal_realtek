@@ -1,0 +1,3 @@
+Default flash map layout for Zephyr.
+flash map.ini for MPTool on Windows.
+mpconfig.json for MPCli for Windows/Mac/Linux
