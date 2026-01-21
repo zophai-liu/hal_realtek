@@ -99,3 +99,43 @@ blobs:
     url: https://github.com/rtkconnectivity/realtek-zephyr-project/raw/refs/tags/v3.7-rtk-00.01.01/bin/rtl87x2g/bt_stack_patch_MP_master_0.0.126.0_a075812a-ac40d4abfa2d071f5ad63aac0daad0f2.bin
     description: "BT stack patch"
     doc-url: https://docs.realmcu.com/sdk/rtl87x2g/common/en/latest/doc/platform/image_layout/text_en/README.html#flash-layout
+  - path: bee/rtl8752h/bin/single_bank/configFile_2025.09.28.09-c56ff8be480e864851703087f3d661d3.bin
+    sha256: ff35de5c1ade92efbebc5500135b073891301410ea4131de853cd3759cc01067
+    type: img
+    version: '0.0'
+    license-path: LICENSE
+    url: https://github.com/rtkconnectivity/realtek-zephyr-project/raw/refs/tags/v3.7-rtk-00.01.01/bin/rtl8752h/single_bank/configFile_2025.09.28.09-c56ff8be480e864851703087f3d661d3.bin
+    description: "Config file(OEM header)"
+    doc-url: https://docs.realmcu.com/sdk/rtl8752h/common/en/latest/platform/image_layout/text_en/README.html
+  - path: bee/rtl8752h/bin/single_bank/OTAHeader_Bank0_1.0.0.1-b2dff20b37cc479bf054669db699e2e1.bin
+    sha256: edad96b1ccd3d99a87b37aa184881ee4b9cb8752a47ee9b2d1bcad3b9e3e36ec
+    type: img
+    version: '0.0'
+    license-path: LICENSE
+    url: https://github.com/rtkconnectivity/realtek-zephyr-project/raw/refs/tags/v3.7-rtk-00.01.01/bin/rtl8752h/single_bank/OTAHeader_Bank0_1.0.0.1-b2dff20b37cc479bf054669db699e2e1.bin
+    description: "OTA header bank0"
+    doc-url: https://docs.realmcu.com/sdk/rtl8752h/common/en/latest/platform/image_layout/text_en/README.html
+  - path: bee/rtl8752h/bin/single_bank/BANK0_fsbl_MP_master_1.2.4.0_722f404-e67afdd707414f84601a5bf52b53c788.bin
+    sha256: d690ce0adb372dbfa266ca50d52bae8c0d79f2d9d437407484b2ad3830725031
+    type: img
+    version: '1.2.4.0'
+    license-path: LICENSE
+    url: https://github.com/rtkconnectivity/realtek-zephyr-project/raw/refs/tags/v3.7-rtk-00.01.01/bin/rtl8752h/single_bank/BANK0_fsbl_MP_master_1.2.4.0_722f404-e67afdd707414f84601a5bf52b53c788.bin
+    description: "FSBL(secure boot loader) bank0"
+    doc-url: https://docs.realmcu.com/sdk/rtl8752h/common/en/latest/platform/image_layout/text_en/README.html
+  - path: bee/rtl8752h/bin/single_bank/BANK0_Patch_MP_release_0.0.322.2_56a2dbcd-2ca079e00bca6b92dd2af96124332221.bin
+    sha256: 67c46b46685026fdd6bedcaa6036cd80edd11baea828ba427a8b987ce74616fb
+    type: img
+    version: '0.0.322.2'
+    license-path: LICENSE
+    url: https://github.com/rtkconnectivity/realtek-zephyr-project/raw/refs/tags/v3.7-rtk-00.01.01/bin/rtl8752h/single_bank/BANK0_Patch_MP_release_0.0.322.2_56a2dbcd-2ca079e00bca6b92dd2af96124332221.bin
+    description: "ROM patch bank0"
+    doc-url: https://docs.realmcu.com/sdk/rtl8752h/common/en/latest/platform/image_layout/text_en/README.html
+  - path: bee/rtl8752h/bin/single_bank/bt_stack_patch_MP_master_0.0.145.0_ab89e0d5-982493ffb677098b7f324aef124f9554.bin
+    sha256: 01de230ab0a1f133db2547af7a1b99cbd963add51713ec5f682173edf1420365
+    type: img
+    version: '0.0.145.0'
+    license-path: LICENSE
+    url: https://github.com/rtkconnectivity/realtek-zephyr-project/raw/refs/tags/v3.7-rtk-00.01.01/bin/rtl8752h/single_bank/bt_stack_patch_MP_master_0.0.145.0_ab89e0d5-982493ffb677098b7f324aef124f9554.bin
+    description: "BT stack patch bank0"
+    doc-url: https://docs.realmcu.com/sdk/rtl8752h/common/en/latest/platform/image_layout/text_en/README.html
